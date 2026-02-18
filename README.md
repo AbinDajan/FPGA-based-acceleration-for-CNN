@@ -1,5 +1,5 @@
 # FPGA-based-acceleration-for-CNN
-#libe buffer
+
 `timescale 1ns / 1ps
 
 module line_buffer #(

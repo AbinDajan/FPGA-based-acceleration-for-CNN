@@ -1,4 +1,4 @@
-# FPGA-based-acceleration-for-CNN
+# Python-Overlay
 
 from pynq import Overlay
 from pynq import MMIO
